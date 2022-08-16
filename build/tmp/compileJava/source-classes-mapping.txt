@@ -1,0 +1,8 @@
+com/nphase/service/ShoppingCartService.java
+ com.nphase.service.ShoppingCartService
+com/nphase/entity/Product.java
+ com.nphase.entity.Product
+com/nphase/entity/ShoppingCart.java
+ com.nphase.entity.ShoppingCart
+com/nphase/entity/Discount.java
+ com.nphase.entity.Discount

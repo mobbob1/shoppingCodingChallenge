@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.nphase.service.ShoppingCartServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-08-16T12:05:49" hostname="DESKTOP-96UI2JH" time="0.054">
+  <properties/>
+  <testcase name="calculatesConfigurableDiscount()" classname="com.nphase.service.ShoppingCartServiceTest" time="0.054"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
